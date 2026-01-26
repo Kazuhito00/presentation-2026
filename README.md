@@ -1,7 +1,10 @@
 # presentation-2026
-プレゼンテーション資料をまとめたリポジトリです。<br><br>
+プレゼンテーション資料をまとめたリポジトリです。<br>
 
-過去のリポジトリは以下です。
+<details>
+
+<summary>過去のリポジトリ</summary>
+
 * [presentation-2025](https://github.com/Kazuhito00/presentation-2025)
 * [presentation-2024](https://github.com/Kazuhito00/presentation-2024)
 * [presentation-2023](https://github.com/Kazuhito00/presentation-2023)
@@ -9,6 +12,8 @@
 * [presentation-2021](https://github.com/Kazuhito00/presentation-2021)
 * [presentation-2020](https://github.com/Kazuhito00/presentation-2020)
 * [presentation-2019](https://github.com/Kazuhito00/presentation-2019)
+
+</details>
 
 # Contents
 ## 1/24：【NGK2026S】日本株のシステムトレードに入門してみた
