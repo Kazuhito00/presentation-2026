@@ -21,5 +21,10 @@
 
 資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2026s-ri-ben-zhu-nosisutemutoredoniru-men-sitemita) / [YouTube](https://www.youtube.com/watch?v=7Bep2l3RTw0)
 
+## 2/21：【PyCon mini Shizuoka 2026】生成AI時代に画像処理やオーディオ処理のノードエディターを作る理由
+<img src="https://github.com/user-attachments/assets/3fce1e8f-f929-45e1-89a4-ffb3e0b9658c" width="640px" height="360px">
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pycon-mini-shizuoka-2026-sheng-cheng-aishi-dai-nihua-xiang-chu-li-yaodeiochu-li-nonodoedeitawozuo-ruli-you) / [YouTube](https://www.youtube.com/watch?v=F8tyfQTnZ7A)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
